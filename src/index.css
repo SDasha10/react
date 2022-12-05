@@ -64,6 +64,10 @@ body {
     box-shadow: 0 4px 0 #1f756a;
     border: 1px solid #1a6158;
 }
+.image{
+    width: 250px;
+    height: 250px;
+}
 .App button:hover {
     -webkit-transform: translateY(-2px);
     transform: translateY(-2px);
